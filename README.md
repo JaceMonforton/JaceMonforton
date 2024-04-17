@@ -5,6 +5,6 @@ I'm a Software Engineering student at Ontario Tech University 🎓, passionate a
 - 🔭 I’m currently working on a coding solution for lockdown browser
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: LinkedIn: JaceMonforton | Instagram: Jace.FC1
-- ⚡ Fun fact: I enjoy lifting heavy weights for multiple hours a day
+- ⚡ Fun fact: I enjoy lifting heavy circles for multiple hours a day
 
 Let's connect and code something awesome together! 🚀
